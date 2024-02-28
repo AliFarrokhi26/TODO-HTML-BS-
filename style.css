@@ -39,7 +39,7 @@ body{
 .test-input button{
     top: 50%;
     transform: translateY(-50%);
-    right: 5px;   
+    right:10px;   
 }
 .taskList{
     width: 100%;
