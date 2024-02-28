@@ -50,6 +50,7 @@ li{
     list-style-type: none;
     border-radius: 10px;
     height:30px;
+    font-weight: bold;
     &:hover{
     background-color: #cdffff ;
 }
